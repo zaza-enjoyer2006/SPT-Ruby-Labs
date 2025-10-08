@@ -1,0 +1,22 @@
+{
+  "scanned_files": 7,
+  "groups": [
+    {
+      "size_bytes": 8966,
+      "saved_if_dedup_bytes": 8966,
+      "files": [
+        "C:/Users/jeyko/RubyProjects/RubyLabs/lab3/task3/task3_data/download (3).jpg",
+        "C:/Users/jeyko/RubyProjects/RubyLabs/lab3/task3/task3_data/download (3)_copy.jpg"
+      ]
+    },
+    {
+      "size_bytes": 5186,
+      "saved_if_dedup_bytes": 10372,
+      "files": [
+        "C:/Users/jeyko/RubyProjects/RubyLabs/lab3/task3/task3_data/download (4).jpg",
+        "C:/Users/jeyko/RubyProjects/RubyLabs/lab3/task3/task3_data/download (4)_copy.jpg",
+        "C:/Users/jeyko/RubyProjects/RubyLabs/lab3/task3/task3_data/download (4)_copy_copy.jpg"
+      ]
+    }
+  ]
+}
